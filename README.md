@@ -1,4 +1,4 @@
-# Simple instagram feed 
+# Simple instagram feed (made with Bootstrap)
 
 **Simple copy of Instagram, with some functionalities**
 
